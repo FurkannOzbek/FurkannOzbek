@@ -23,7 +23,7 @@ My name is Furkan Özbek, and I’m a junior frontend developer. I am originally
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 
 ## Statistics  
-<a> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FurkannOzbek&layout=Compact&show_icons=true&theme=tokyonight"/></a>
+<a> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FurkannOzbek&layout=Compact&show_icons=true&theme=tokyonight&card_width=320"/></a>
 <a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkannOzbek&show_icons=true&layout=compact&theme=tokyonight&exclude_repo=ozenevdesaglik,hackyourfuturelessonex&card_width=320"/></a>  
 <h2 align="center">Visitor Count</h2>
 
