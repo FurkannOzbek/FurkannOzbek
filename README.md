@@ -1,4 +1,6 @@
 ![Header](./header3.png)
+## Hello People! :wave:
+My name is Furkan Özbek, and I’m a junior frontend developer. I am originally from Turkey but have been living in Denmark for the past three years. After graduating with a bachelor's degree in computer engineering, I had to move between countries, which delayed my career in my desired field. Now that I’m settled, I’m eager to start my career in frontend development.
 [![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurkannOzbek)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FurkannOzbek/FurkannOzbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
