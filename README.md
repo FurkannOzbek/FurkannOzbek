@@ -1,7 +1,7 @@
 ![Header](./header3.png)
 ## Hello People! :wave:
 
-My name is Furkan Özbek, and I’m a junior frontend developer. I am originally from Turkey but have been living in Denmark for the past three years. After graduating with a bachelor's degree in computer engineering, I had to move between countries, which delayed my career in my desired field. Now that I’m settled, I am about to complete an 8-month web development bootcamp at $${\color{green}HackYourFuture}$$, which is an addition to my education, and I’m eager to start my career in frontend development.
+My name is Furkan Özbek, and I’m a junior frontend developer. I am originally from Turkey but have been living in Denmark for the past three years. After graduating with a bachelor's degree in computer engineering, I had to move between countries, which delayed my career in my desired field. Now that I’m settled, I am about to complete an 8-month web development bootcamp at <a href="https://www.hackyourfuture.dk/" style="color:green">Hack Your Future</a>, which is an addition to my education, and I’m eager to start my career in frontend development.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%B6zbek-151926127/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fu.ozbek/)
@@ -11,6 +11,7 @@ My name is Furkan Özbek, and I’m a junior frontend developer. I am originally
 
 ## Technologies & Tools  
 ![React Badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-563d7c?&style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +23,18 @@ My name is Furkan Özbek, and I’m a junior frontend developer. I am originally
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 
 ## Statistics  
-[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurkannOzbek)](https://github.com/anuraghazra/github-readme-stats)
+<a> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FurkannOzbek&layout=Compact&show_icons=true&theme=tokyonight"/></a>
+<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkannOzbek&show_icons=true&layout=compact&theme=tokyonight&exclude_repo=ozenevdesaglik,hackyourfuturelessonex&card_width=320"/></a>  
+<h2 align="center">Visitor Count</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{FurkannOzbek}/count.svg" alt="Visitor Count">
+</p>
+
+
+
+
+
 <!--
 **FurkannOzbek/FurkannOzbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
