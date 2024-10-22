@@ -4,7 +4,7 @@
 My name is Furkan Özbek, and I’m a junior frontend developer. I am originally from Turkey but have been living in Denmark for the past three years. After graduating with a bachelor's degree in computer engineering, I had to move between countries, which delayed my career in my desired field. Now that I’m settled, I am about to complete an 8-month web development bootcamp at $${\color{green}HackYourFuture}$$, which is an addition to my education, and I’m eager to start my career in frontend development.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%B6zbek-151926127/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fu.ozbek/)  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fu.ozbek/)
 [![Static Badge](https://img.shields.io/badge/My%20own%20website-02b2a0?style=for-the-badge&logo=web&logoColor=white)](https://www.furkanozbek.dk)  
 
 
