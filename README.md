@@ -6,7 +6,7 @@ My name is Furkan Özbek, and I’m a junior frontend developer. I am originally
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%B6zbek-151926127/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fu.ozbek/)  
 [![Static Badge](https://img.shields.io/badge/My%20own%20website-02b2a0?style=for-the-badge&logo=web&logoColor=white)](https://www.furkanozbek.dk)  
-![Static Badge](https://img.shields.io/badge/My%20own%20website-02b2a0?style=for-the-badge)(https://www.furkanozbek.dk)
+
 
 
 ## Technologies & Tools  
