@@ -1,7 +1,7 @@
 ![Header](./header3.png)
 ## Hello People! :wave:
 
-My name is Furkan Özbek, and I’m a junior frontend developer. I am originally from Turkey but have been living in Denmark for the past three years. After graduating with a bachelor's degree in computer engineering, I had to move between countries, which delayed my career in my desired field. Now that I’m settled, I am about to complete an 8-month web development bootcamp at <a href="https://www.hackyourfuture.dk/" style="color:green">Hack Your Future</a>, which is an addition to my education, and I’m eager to start my career in frontend development.
+My name is Furkan Özbek, a junior frontend developer originally from Turkey, now residing in Denmark for the past three years. I hold a bachelor's degree in computer engineering but experienced some delays in pursuing my career due to moving between countries. Now that I’m settled, I have successfully completed an 8-month web development bootcamp at Hack Your Future, which has further strengthened my skills. I am now ready and eager to start on my career in frontend development.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-%C3%B6zbek-151926127/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fu.ozbek/)
