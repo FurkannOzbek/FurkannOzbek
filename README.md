@@ -1,5 +1,5 @@
 ![Header](./header3.png)
-## Hello People! :wave:
+## Hello People! :wave: 
 
 My name is Furkan Özbek, a junior frontend developer originally from Turkey, now residing in Denmark for the past three years. I hold a bachelor's degree in computer engineering but experienced some delays in pursuing my career due to moving between countries. Now that I’m settled, I have successfully completed an 8-month web development bootcamp at Hack Your Future, which has further strengthened my skills. I am now ready and eager to start on my career in frontend development.
 
